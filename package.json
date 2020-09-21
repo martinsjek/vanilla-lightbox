@@ -1,0 +1,8 @@
+{
+  "name": "vanilla-lightbox",
+  "version": "1.0.0",
+  "description": "Vanilla Lightbox",
+  "main": "src/js/app.js",
+  "author": "martinsjek",
+  "license": "ISC"
+}
