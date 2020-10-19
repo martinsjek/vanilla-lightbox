@@ -12,7 +12,7 @@
 #### Install package:
 ##### `npm i vanilla-lightbox`
 #### Import package into your JS file as ES6 module:
-##### `Import VanillaLightbox from 'vanilla-lightbox'`
+##### `import VanillaLightbox from 'vanilla-lightbox'`
 
 #### Use Vanilla lightbox:
 ##### `const vanillaLightbox = new VanillaLightbox`
@@ -21,9 +21,9 @@
 
 #### Now support:
 
- - ##### Single Image lightbox
- - ##### Gallery lightbox
- - ##### Iframe lightbox
+ - Single Image lightbox
+ - Gallery lightbox
+ - Iframe lightbox
 
 #### Images are loaded with lazyload on click
 
